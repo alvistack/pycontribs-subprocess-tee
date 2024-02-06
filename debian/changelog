@@ -1,0 +1,5 @@
+python-subprocess-tee (100:0.4.2-1) UNRELEASED; urgency=medium
+
+  * https://github.com/pycontribs/subprocess-tee/releases/tag/0.4.2
+
+ -- Wong Hoi Sing Edison <hswong3i@pantarei-design.com>  Tue, 18 Jun 2024 11:38:23 +0800
