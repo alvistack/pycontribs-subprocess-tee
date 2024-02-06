@@ -1,0 +1,4 @@
+python-subprocess-tee source: file-without-copyright-information
+python-subprocess-tee source: no-debian-changes
+python-subprocess-tee source: source-contains-prebuilt-windows-binary
+python-subprocess-tee source: source-package-encodes-python-version
