@@ -1,0 +1,4 @@
+python3-subprocess-tee: copyright-without-copyright-notice
+python3-subprocess-tee: initial-upload-closes-no-bugs
+python3-subprocess-tee: no-manual-page
+python3-subprocess-tee: zero-byte-file-in-doc-directory
